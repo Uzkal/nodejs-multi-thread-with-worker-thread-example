@@ -1,0 +1,16 @@
+{
+  "name": "multi-thread-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "worker_threads"
+  ],
+  "author": "Ataberk UZKAL",
+  "license": "MIT",
+  "dependencies": {}
+}
